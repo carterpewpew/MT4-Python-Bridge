@@ -54,15 +54,9 @@ pip install pywin32
 
 ---
 
-### 3. 📂 Place Files
+### 3. 📂 Place Files and Compile
 - Copy `bridge/bridge.dll` to your MT4 `Libraries` folder:
-  ```
-MT4_DIR\MQL4\Libraries\bridge.dll
-  ```
-- Copy `mt4/expert.mq4` to:
-  ```
-MT4_DIR\MQL4\Experts\expert.mq4
-  ```
+- Copy `mt4/expert.mq4` to your MT4 `Experts` folder:
 - Compile the EA in MetaEditor.
 
 ---
